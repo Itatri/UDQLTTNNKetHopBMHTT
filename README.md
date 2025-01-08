@@ -5,7 +5,7 @@
 ### Functions
 
 - Quản lí HTTT trung tâm tiếng anh 
-- Bảo mật bằng cơ sở dữ liệu Oracle
+- Bảo mật UD kết hợp CSDL Oracle
 
 
 ### Tech

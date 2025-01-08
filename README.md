@@ -1,5 +1,5 @@
 
-## Đồ án TH Bảo Mật HTTT : Phần mềm quản lí TTTA kết hợp BM
+## Đồ án TH Bảo Mật HTTT : Phần mềm quản lí trung tâm tiếng anh kết hợp bảo mật
 
 
 ### Functions

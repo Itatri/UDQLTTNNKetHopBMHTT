@@ -1,15 +1,12 @@
-
-## Đồ án TH Bảo Mật HTTT : Phần mềm quản lí trung tâm tiếng anh kết hợp bảo mật
-
-
-### Chức năng
-
-- Quản lí HTTT trung tâm tiếng anh 
-- Bảo mật UD kết hợp CSDL Oracle
+## Practice project on Information System Security: English center management software combined with security
 
 
-### Công nghệ
+### Function
+
+- Manage the English central information system 
+- Application security combined with Oracle database
+
+
+### Technology
 - SQL Developer (Oracle)
 - Windows Forms App .Net Framework
-
-

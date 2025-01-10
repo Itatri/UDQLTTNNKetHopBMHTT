@@ -1,4 +1,4 @@
-## Practice project on Information System Security: English Center Management software combined with security
+## Practice project on information system security: English center management software combined with security
 
 
 ### Function

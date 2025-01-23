@@ -16,5 +16,5 @@
 
  <details>
     <summary>Preview</summary>
-    <img loading="lazy" src="EXAMPLES/AakashSinha.webp">
+    <img loading="lazy" src="https://github.com/user-attachments/assets/ea51a8da-289c-4049-a585-e2ef325e4fe9">
   </details>
